@@ -1,7 +1,9 @@
 #  NapCat-Mac-Installer
 
 NapCat on macOS
+
 ##安装NapCat&连接trss崽
+
 1、trss崽安装教程，请看云崽的安装说明，可安装miao崽后，在根目录运行下方指令切换
 '''sh
 node trss
