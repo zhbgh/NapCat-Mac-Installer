@@ -23,7 +23,7 @@ node trss
 
 6、启动完成后，在日志里找到
 '''sh
-WebUi Local Panel Url：http：//ip：port/webui？token=napcat
+WebUi Local Panel Url：http://ip:port/webui?token=napcat
 '''
 ps:ip:是本地ip；端口号默认是：6099 （根据实际情况会有出入，被占用的会自动+1），token是登陆页面的密码，初始密码是napcat；
 
